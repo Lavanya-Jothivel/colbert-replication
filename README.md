@@ -224,10 +224,10 @@ results/
 └── ranking_metrics.csv
 ```
 
-Example:
 
+The following figure compares validation accuracy for the 80-triplet and 800-triplet MS MARCO training experiments.
 
-![Validation comparison](results/training_comparison.png)
+![ColBERT Validation Accuracy Comparison](results/training_comparison.png)
 
 ---
 
