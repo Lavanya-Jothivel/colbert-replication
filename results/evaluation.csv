@@ -1,0 +1,2 @@
+experiment,training_examples,epochs,projection_dim,bert_frozen,pairwise_accuracy,average_margin
+MS MARCO 100-triplet subset,100,3,128,True,1.0,0.9754

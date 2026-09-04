@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# Hugging Face / cache
+.cache/
+huggingface/
+
+# Local environment
+.env
+
+# Large/local dataset copies
+data/*.jsonl
