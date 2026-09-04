@@ -404,8 +404,23 @@ Potential extensions include:
 
 ## Reference
 
-Omar Khattab and Matei Zaharia.
+This project is a small-scale replication of:
 
-**ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**
+**ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**  
+Omar Khattab and Matei Zaharia  
+SIGIR 2020, pp. 39–48
 
-SIGIR 2020.
+- Paper: https://arxiv.org/abs/2004.12832
+- Official implementation: https://github.com/stanford-futuredata/ColBERT
+- DOI: https://doi.org/10.1145/3397271.3401075
+
+### Citation
+
+```bibtex
+@inproceedings{khattab2020colbert,
+  title={ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT},
+  author={Khattab, Omar and Zaharia, Matei},
+  booktitle={Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={39--48},
+  year={2020}
+}
