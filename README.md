@@ -414,13 +414,24 @@ SIGIR 2020, pp. 39–48
 - Official implementation: https://github.com/stanford-futuredata/ColBERT
 - DOI: https://doi.org/10.1145/3397271.3401075
 
-### Citation
+## Citation
+
+This project is based on the following paper:
+
+**ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**  
+Omar Khattab and Matei Zaharia  
+*Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '20)*, 2020, pp. 39–48.
+
+If you use or reference the original ColBERT work, please cite:
 
 ```bibtex
 @inproceedings{khattab2020colbert,
-  title={ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT},
-  author={Khattab, Omar and Zaharia, Matei},
-  booktitle={Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
-  pages={39--48},
-  year={2020}
+  title     = {ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT},
+  author    = {Khattab, Omar and Zaharia, Matei},
+  booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages     = {39--48},
+  year      = {2020},
+  doi       = {10.1145/3397271.3401075}
 }
+```
+
