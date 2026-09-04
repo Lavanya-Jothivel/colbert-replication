@@ -290,7 +290,7 @@ colbert-replication/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Lavanya-Jothivel/colbert-replication.git
 cd colbert-replication
 ```
 
