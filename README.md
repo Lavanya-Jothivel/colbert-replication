@@ -7,6 +7,20 @@ This project implements token-level BERT representations, dimensionality reducti
 > This is a small-scale replication designed to study ColBERT's architecture and training behavior. It is **not** a reproduction of the full MS MARCO benchmark results reported in the original paper.
 
 ---
+## Results Summary
+
+| Metric | Result |
+|---|---:|
+| Training Triplets | 800 |
+| Held-out Validation Triplets | 200 |
+| Best Pairwise Validation Accuracy | 52.0% |
+| Ranking Evaluation Queries | 20 |
+| MRR | **0.7627** |
+| Recall@1 | **0.6500** |
+| Recall@3 | **0.8500** |
+| Recall@5 | **0.8500** |
+
+> Retrieval metrics were measured on a small held-out 20-query / 20-candidate evaluation pool and should not be interpreted as official MS MARCO benchmark results.
 
 ## Core Idea
 
