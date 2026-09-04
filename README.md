@@ -226,9 +226,6 @@ results/
 
 Example:
 
-```markdown
-![Validation comparison](results/training_comparison.png)
-```
 
 ![Validation comparison](results/training_comparison.png)
 
